@@ -63,6 +63,7 @@ AtliQ Hardware is facing intense competition and is struggling to maintain profi
 ## Business Questions and Insights 
 
 | # | Business Question | Insight Summary |
+|------------|------------|------------|
 
 | 1 | List of Markets/Countries in which customer "Atliq Exclusive" operates its business in the APAC region. | Australia, Bangladesh, India, Indonesia, Japan, New Zealand, the Philippines, and South Korea are the eight Asia-Pacific nations where Atliq Exclusive operates. Atliq Exclusive sold 3.85 million products in the Asia Pacific area during the fiscal year 2020–2021. Japan had the lowest sales, with only 0.06 million units sold, while India had the most sales, with 1.93 million products sold.|
 
@@ -88,7 +89,6 @@ N & S division: AQ Pen Drive 2 IN 1 Premium, with 0.70 million units sold.
 P & A division: AQ Gamers Ms Standard 2, with 0.43 million units sold. 
 PC division: AQ Digit Standard Blue, with 0.02 million units sold. |
 
-|---|-------------------|------------------|
 ---
 
 ## Challenges and Learnings
