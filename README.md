@@ -2,41 +2,39 @@
 
 ---
 
-**## Table of Contents**  
+## Table of Contents
 1. [Project Overview](#Project-Overview)  
-2. [Problem Statement](#problem-statement)  
-3. [Objectives](#objectives)  
-4. [Database and Tables Used](#database-and-tables-used)  
-5. [SQL Techniques Applied](#sql-techniques-applied)  
-6. [Business Questions and Insights](#business-questions-and-insights)  
-7. [Challenges and Learnings](#challenges-and-learnings)  
-8. [Conclusion and Future Scope](#conclusion-and-future-scope)  
-9. [Tools Used](#tools-used)
+2. [Problem Statement](#Problem-Statement)  
+3. [Objectives](#Objectives)  
+4. [Database and Tables Used](#Database-and-Tables-Used)  
+5. [SQL Techniques Applied](#SQL-Techniques-Applied)  
+6. [Business Questions and Insights](#Business-Questions-and-Insights)  
+7. [Challenges and Learnings](#Challenges-and-Learnings)  
+8. [Conclusion and Future Scope](#Conclusion-and-Future-Scope)  
+9. [Tools Used](#Tools-Used)
  
-
 ---
 
-**## Project Overview**  
+## Project Overview 
 AtliQ Hardware is a fast-growing hardware company aiming to expand across global markets. However, without centralized analytics, business leaders struggled to make data-backed decisions. This SQL-based project analyzes real-world business scenarios using structured queries to uncover insights from AtliQ's internal data.
 
 ---
 
-**## Problem Statement**  
-AtliQ Hardware is facing intense competition and is struggling to maintain profitability. Their leadership wants to shift from intuition-driven decisions to **data-driven decision-making**. The SQL case study simulates how an analyst would support executives by answering complex business questions.  
+## Problem Statement
+AtliQ Hardware is facing intense competition and is struggling to maintain profitability. Their leadership wants to shift from intuition-driven decisions to **data-driven decision-making**. The SQL case study simulates how an analyst would support executives by answering complex business questions. 
+
 ---
 
-**## Objectives**  
+## Objectives 
 - Extract insights using complex SQL queries   
 - Answer executive-level business questions using structured queries.  
 - Improve understanding of customer, product, and market behavior.
 - Practice JOINs, CTEs, aggregations, filtering, and window functions 
 - Build a foundation for advanced reporting through SQL-based analysis.
  
-
-
 ---
 
-**## Database and Tables Used**  
+## Database and Tables Used 
 **Database**: `gdb023` (Fictional business database)
 
 **Tables:**  
@@ -51,7 +49,7 @@ AtliQ Hardware is facing intense competition and is struggling to maintain profi
 
 ---
 
-**## SQL Techniques Applied**  
+## SQL Techniques Applied
 - Writing **complex JOIN queries** across multiple tables  
 - Using **GROUP BY**, **HAVING**, **ORDER BY** for aggregations  
 - Applying **subqueries** and **CTEs** for layered analysis  
@@ -62,7 +60,7 @@ AtliQ Hardware is facing intense competition and is struggling to maintain profi
 
 ---
 
-**## Business Questions and Insights**  
+## Business Questions and Insights 
 
 | # | Business Question | Insight Summary |
 |---|-------------------|------------------|
@@ -91,34 +89,33 @@ PC division: AQ Digit Standard Blue, with 0.02 million units sold. |
 
 ---
 
-**## Challenges and Learnings**  
+## Challenges and Learnings
 
-**### Challenges**  
+### Challenges
 - Handling large datasets with multiple joins  
-- Interpreting vague business questions and translating them into SQL logic  
-**### Learnings**  
+- Interpreting vague business questions and translating them into SQL logic
+  
+### Learnings
 - Improved proficiency with **advanced SQL joins** and data modeling logic.  
 - Learned to break down complex business problems into modular SQL queries.
 - Gained strong command of `CTEs` and `Window Functions`  
 - Understood how to tie SQL analysis to actual business KPIs  
 - Improved data storytelling by framing answers clearly for stakeholders  
 
-
 ---
 
-**## Conclusion and Future Scope**  
+## Conclusion and Future Scope
 
-**### Impact**  
+### Impact
 This SQL project enabled AtliQ Hardware's management to view their operational data in a new light — deriving actionable insights, identifying top performers, and pinpointing areas of improvement with clarity.
 
-**### Future Scope**  
+### Future Scope 
 - Use stored procedures and views for production-level automation.  
 - Implement performance tuning using query optimization.  
 
 ---
 
-**## Tools Used**  
+## Tools Used
 - **MySQL / SQL Server**: For querying and data manipulation  
 - **DB Browser / Workbench**: For executing and testing SQL queries  
-- **Power BI**: For Visualization
-- **GitHub**: For version control and project documentation  
+- **Power BI**: For Visualization  
