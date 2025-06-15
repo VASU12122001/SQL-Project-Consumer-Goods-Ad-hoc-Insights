@@ -18,6 +18,9 @@
 ## Project Overview 
 AtliQ Hardware is a fast-growing hardware company aiming to expand across global markets. However, without centralized analytics, business leaders struggled to make data-backed decisions. This SQL-based project analyzes real-world business scenarios using structured queries to uncover insights from AtliQ's internal data.
 
+**[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOGE5YmJjYzItY2Y1NS00ZWNiLWI3NzEtNzE4NWFhMjFiZDRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+**Date**: April 2025 
+**Author**: Vasu
 ---
 
 ## Problem Statement
